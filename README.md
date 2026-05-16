@@ -1,4 +1,4 @@
-# PostgreSQL Database Performance Optimization and Monitoring
+# PostgreSQL Veritabanı Performans Optimizasyonu ve İzleme
 
 Bu proje, PostgreSQL üzerinde DVD Rental örnek veritabanı kullanılarak gerçekleştirilmiş bir veritabanı performans optimizasyonu ve izleme çalışmasıdır.
 
