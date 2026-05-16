@@ -1,0 +1,22 @@
+# PostgreSQL dumps / backups
+*.dump
+*.backup
+*.tar
+*.sql.gz
+
+# Large generated files
+*.csv
+*.parquet
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
