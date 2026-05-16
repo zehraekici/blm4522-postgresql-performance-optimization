@@ -2,6 +2,10 @@
 
 Bu proje, PostgreSQL üzerinde DVD Rental örnek veritabanı kullanılarak gerçekleştirilmiş bir veritabanı performans optimizasyonu ve izleme çalışmasıdır.
 
+## Video 
+
+https://drive.google.com/file/d/14zLMcfOpGWTLD7OCdOKLYqW_wInsS1g6/view?usp=sharing
+
 ## Proje Amacı
 
 Bu çalışmada büyük hacimli bir veritabanı üzerinde:
